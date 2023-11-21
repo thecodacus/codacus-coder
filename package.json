@@ -59,5 +59,6 @@
 	},
 	"dependencies": {
 		"axios": "^1.6.2"
-	}
+	},
+	"repository": "https://github.com/thecodacus/codacus-coder"
 }
