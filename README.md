@@ -18,7 +18,7 @@ This extension contributes the following settings:
 
 ## Known Issues
 
-There are no known issues at the moment. If you encounter a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/thecodacus/codacusCoder).
+There are no known issues at the moment. If you encounter a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/thecodacus/codacus-coder/issues).
 
 ## Release Notes
 
