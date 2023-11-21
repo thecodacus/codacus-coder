@@ -2,8 +2,9 @@
 	"name": "codacuscoder",
 	"displayName": "CodacusCoder",
 	"description": "opensource codding assistant",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "Apache-2.0",
+	"publisher": "codacus",
 	"engines": {
 		"vscode": "^1.84.0"
 	},
@@ -16,6 +17,7 @@
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [],
+		"icon": "images/icon.png",
 		"configuration": {
 			"title": "CodacusCoder",
 			"properties": {
